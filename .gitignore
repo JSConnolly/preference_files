@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+!.com.manytricks.Moom.plist
+!com.apple.spaces.plist
+!com.apple.spotlight.plist
+!com.google.Chrome.plist
+!com.google.Chrome.canary.plist
+!com.Matrox.PowerDesk.plist
